@@ -1,0 +1,17 @@
+C:\Users\nalee\source\repos\ayubo\ayubo\obj\Debug\ayubo.csproj.AssemblyReference.cache
+C:\Users\nalee\source\repos\ayubo\ayubo\obj\Debug\ayubo.csproj.SuggestedBindingRedirects.cache
+C:\Users\nalee\source\repos\ayubo\ayubo\obj\Debug\ayubo.Properties.Resources.resources
+C:\Users\nalee\source\repos\ayubo\ayubo\obj\Debug\ayubo.csproj.GenerateResource.cache
+C:\Users\nalee\source\repos\ayubo\ayubo\obj\Debug\ayubo.csproj.CoreCompileInputs.cache
+C:\Users\nalee\source\repos\ayubo\ayubo\bin\Debug\ayubo.exe.config
+C:\Users\nalee\source\repos\ayubo\ayubo\bin\Debug\ayubo.exe
+C:\Users\nalee\source\repos\ayubo\ayubo\bin\Debug\ayubo.pdb
+C:\Users\nalee\source\repos\ayubo\ayubo\obj\Debug\ayubo.exe
+C:\Users\nalee\source\repos\ayubo\ayubo\obj\Debug\ayubo.pdb
+C:\Users\nalee\source\repos\ayubo\ayubo\obj\Debug\ayubo.vehicle.resources
+C:\Users\nalee\source\repos\ayubo\ayubo\obj\Debug\ayubo.rent.resources
+C:\Users\nalee\source\repos\ayubo\ayubo\obj\Debug\ayubo.daytour.resources
+C:\Users\nalee\source\repos\ayubo\ayubo\obj\Debug\ayubo.package.resources
+C:\Users\nalee\source\repos\ayubo\ayubo\obj\Debug\ayubo.longtour.resources
+C:\Users\nalee\source\repos\ayubo\ayubo\obj\Debug\ayubo.mainmenu.resources
+C:\Users\nalee\source\repos\ayubo\ayubo\obj\Debug\ayubo.login.resources
